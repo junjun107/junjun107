@@ -3,10 +3,11 @@
   <a href="https://github.com/jarrodmjack"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p> -->
 
-<!--     JUNE EDIT THIS BELOW ****************************************************
+
 <h4 align="center">
-I'm a Full-Stack Developer based in Canada 🍁. I am passionate about Full-Stack Software Development, <br />Open-source, Web Accessiblity and Design. I like to create and contribute to open source projects and create web applications that are responsive, powerful and accessible to all.
--->
+I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stack Software Development, <br />Open-source, Web Accessiblity and Design. I like to create and contribute to open source projects and create web applications that are responsive, powerful and accessible to all.
+
+<!--     JUNE EDIT THIS BELOW ****************************************************
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjun107&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junjun107)](https://github.com/anuraghazra/github-readme-stats) -->
