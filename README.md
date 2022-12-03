@@ -21,40 +21,40 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Clearcoin Crypto</h3>
+      <h3 align="center">Traveler's Map</h3>
         <br />
         <a target="_blank" href="">
-            <img src="https://user-images.githubusercontent.com/99290888/195200680-5a4d042c-f9c5-4b2c-a278-e0d7b3b49b20.jpg"/>
+            <img src="https://github.com/junjun107/fullstack_travel_blog/blob/master/client/src/asset/travel_log.png?raw=true"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="">
+  <a href="https://github.com/junjun107/fullstack_travel_blog">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/React/MongoDB/Express/Node/JWT</strong> - Clearcoin is a crypto price tracker. This was made to make price tracking less overwhelming for people new to the crypto space</p>
+        <p><strong>JavaScript/React/MongoDB/Express/Node/MapBox</strong> - Track your travels, create your bucket list, save your favorite locations, and much more. </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">The Reef</h3>
+      <h3 align="center">What's Popular Now Movie DB </h3>
         <br />
         <a target="_blank" href="">
-            <img src="https://user-images.githubusercontent.com/99290888/191862798-060db48a-fe53-4f05-a0fa-e3e7ffebf3b8.jpg" alt="notes"/>
+            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670047543/samples/Portfolio/2022-12-02_22_05_04-Movie_App_Mozilla_Firefox_fodkvh.png" alt="notes"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/junjun107/React-context-movie-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="" target="_blank">
+  <a href="https://relaxed-jackson-4661d8.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/MongoDB/Node.js/Express/EJS/CSS/Bootstrap/Passport</strong> - A full stack web application to be used for buying/selling/trading with other fellow aquarists</p>
+        <p><strong>JavaScript/Node.js/Express/SCSS/Bootstrap/React/TMDB</strong> - Find out the latest popular movies and shows. User can also search a movie or shows and view the details of the search results. </p>
     </td>
   </tr>
   <tr>
