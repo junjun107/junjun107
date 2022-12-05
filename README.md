@@ -59,10 +59,10 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
   </tr>
   <tr>
    <td width="50%" valign="top">
-      <h3 align="center">100D Budgets</h3>
+      <h3 align="center">Dino Support</h3>
         <br />
         <a target="_blank" href="">
-            <img src="https://user-images.githubusercontent.com/99290888/188750992-228bf34f-a0c5-4ccd-9302-0f8e0618f77e.png" alt="notes"/>
+            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670283022/dino_support_tggjir.png" alt="notes"/>
         </a>
         <br />
         <p align="center">
@@ -74,7 +74,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/MongoDB/Node.js/Express/EJS/CSS/Materialize</strong> - A full-stack application for tracking expenses compared to a fixed budget</p>
+        <p><strong>JavaScript/MongoDB/Node.js/Express/CSS/Redux</strong> - A full-stack application for repair shop specialized in Apple product repair. </p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Aqua Advisor</h3>
