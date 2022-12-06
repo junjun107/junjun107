@@ -74,7 +74,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript/MongoDB/Node.js/Express/CSS/Redux</strong> - A full-stack application for repair shop specialized in Apple product repair. </p>
+        <p><strong>JavaScript/MongoDB/Node.js/Express/CSS/Redux</strong> - A full-stack application for repair shop specialized in Apple products repair. </p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Aqua Advisor</h3>
