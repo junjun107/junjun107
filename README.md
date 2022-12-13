@@ -78,23 +78,24 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
       </p>
         <p><strong>JavaScript/MongoDB/Node.js/Express/CSS/Redux</strong> - A full-stack application for repair shop specialized in Apple products repair. </p>
     </td>
+<!-- ----4th---- -->
    <td width="50%" valign="top">
       <h3 align="center">Aqua Advisor</h3>
         <br />
-      <a target="_blank" href="">
-            <img src="http://www.jbl.de/images/apps/areas/aquarium/essentials/aquarium_food/medium/gesellschaftsaquarium/01-gesellschaft2.png" width="100%"  alt="aquarium"/>
+      <a target="_blank" href="https://zany-tan-brown-bear-tam.cyclic.app">
+            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670635876/portfolio/2022-12-08_22_56_39-Window_yagfdo.png" width="100%"  alt="ai generated image"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/junjun107/funky-image-generator" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://zany-tan-brown-bear-tam.cyclic.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Website to purchase local fish</p>
+        <p><strong>HTML/CSS/JavaScript</strong> - A Website to creates images from text captions </p>
     </td> 
   </tr>
 	
