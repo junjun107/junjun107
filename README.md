@@ -20,6 +20,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
 
 <table bordercolor="#66b2b2">
   <tr>
+<!-- 	  1st  -->
     <td width="50%" valign="top">
       <h3 align="center">Traveler's Map</h3>
         <br />
