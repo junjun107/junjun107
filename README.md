@@ -38,11 +38,12 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
       </p>
         <p><strong>JavaScript/React/MongoDB/Express/Node/MapBox</strong> - Track your travels, create your bucket list, save your favorite locations, and much more. </p>
     </td>
+<!-- 	  2nd -->
     <td width="50%" valign="top">
       <h3 align="center">What's Popular Now Movie DB </h3>
         <br />
         <a target="_blank" href="https://relaxed-jackson-4661d8.netlify.app/">
-            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670047543/samples/Portfolio/2022-12-02_22_05_04-Movie_App_Mozilla_Firefox_fodkvh.png" alt="notes"/>
+            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670700129/portfolio/Movie_App_Mozilla_Firefox_vwre7n.png" alt="notes"/>
         </a>
         <br />
         <p align="center">
@@ -58,6 +59,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
     </td>
   </tr>
   <tr>
+<!-- 	  3rd -->
    <td width="50%" valign="top">
       <h3 align="center">Dino Support</h3>
         <br />
