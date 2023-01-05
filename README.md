@@ -65,7 +65,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
       <h3 align="center">Dino Support</h3>
         <br />
         <a target="_blank" href="https://drab-pear-moth-wrap.cyclic.app/">
-            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670283022/dino_support_tggjir.png" alt="notes"/>
+            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670285705/portfolio/dino-landing_bsfvps.png" alt="notes"/>
         </a>
         <br />
         <p align="center">
