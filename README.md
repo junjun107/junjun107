@@ -83,7 +83,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
    <td width="50%" valign="top">
       <h3 align="center">Random Image generator</h3>
         <br />
-      <a target="_blank" href="https://zany-tan-brown-bear-tam.cyclic.app">
+      <a target="_blank" href="https://puffer-shoe.cyclic.app">
             <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670635876/portfolio/2022-12-08_22_56_39-Window_yagfdo.png" width="100%"  alt="ai generated image"/>
         </a>
         <br />
@@ -92,7 +92,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
   <a href="https://github.com/junjun107/funky-image-generator" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://zany-tan-brown-bear-tam.cyclic.app" target="_blank">
+  <a href="https://puffer-shoe.cyclic.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
