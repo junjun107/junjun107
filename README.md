@@ -83,8 +83,8 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
    <td width="50%" valign="top">
       <h3 align="center">PixelPal</h3>
         <br />
-      <a target="_blank" href="https://creepy-eel-spacesuit.cyclic.app>
-            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670635876/portfolio/2022-12-08_22_56_39-Window_yagfdo.png" width="100%"  alt="ai generated image"/>
+     	<a target="_blank" href="https://drab-pear-moth-wrap.cyclic.app/">
+            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670635876/portfolio/2022-12-08_22_56_39-Window_yagfdo.png" alt="notes"/>
         </a>
         <br />
         <p align="center">
