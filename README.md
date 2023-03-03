@@ -22,7 +22,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
   <tr>
 <!-- 	  1st  -->
     <td width="50%" valign="top">
-      <h3 align="center">Traveler's Map</h3>
+      <h3 align="center">Map My Way</h3>
         <br />
         <a target="_blank" href="https://pear-famous-brown-bear.cyclic.app">
             <img src="https://github.com/junjun107/fullstack_travel_blog/blob/master/client/src/asset/travel_log.png?raw=true"/>
