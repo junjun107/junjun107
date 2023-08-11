@@ -79,8 +79,9 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
       </p>
         <p><strong>JavaScript/MongoDB/Node.js/Express/CSS/Redux</strong> - A full-stack application for repair shop specialized in Apple products repair. </p>
     </td>
+    
 <!-- ----4th---- -->
-   <td width="50%" valign="top">
+  <!--  <td width="50%" valign="top">
       <h3 align="center">PixelPal</h3>
         <br />
      	<a target="_blank" href="https://drab-pear-moth-wrap.cyclic.app/">
@@ -98,7 +99,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
       </p>
         <p><strong>HTML/CSS/JavaScript</strong> - A Website to creates images from text captions </p>
     </td> 
-  </tr>
+  </tr> -->
 	
 </table>
 
