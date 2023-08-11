@@ -123,9 +123,10 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
 <br>
 <!-- <hr/> -->
 
+<!--
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/junjun107"><img alt="June activity graph" src="https://activity-graph.herokuapp.com/graph?username=junjun107&custom_title=June's%20Contribution%20Graph&theme=react-dark" /></a>
-
+ -->
 
 <!--
 <hr/>
