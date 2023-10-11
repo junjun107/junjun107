@@ -119,6 +119,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
       src="https://github-profile-trophy.vercel.app/?username=junjun107&row=1&column=3&theme=algolia" alt="junjun107" /></a>  </p>
    
 
+[![An image of @junebeedebug's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/junebeedebug)](https://holopin.io/@junebeedebug)
 
 <br>
 <!-- <hr/> -->
@@ -130,6 +131,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
 
 <!--
 <hr/>
+
 
 
 
