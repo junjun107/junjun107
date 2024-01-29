@@ -81,25 +81,26 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
     </td>
     
 <!-- ----4th---- -->
-  <!--  <td width="50%" valign="top">
-      <h3 align="center">PixelPal</h3>
+<td width="50%" valign="top">
+      <h3 align="center">Food Oasis</h3>
         <br />
-     	<a target="_blank" href="https://drab-pear-moth-wrap.cyclic.app/">
-            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1670635876/portfolio/2022-12-08_22_56_39-Window_yagfdo.png" alt="notes"/>
+     	<a target="_blank" href="http://foodoasis.la">
+            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/b_rgb:FFFFFF/c_pad,w_400,h_400/v1706560821/portfolio/fola-profolio_fznjfp.png" alt="notes"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/junjun107/funky-image-generator" target="_blank">
+  <a href="https://github.com/hackforla/food-oasis" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://creepy-eel-spacesuit.cyclic.app" target="_blank">
+  <a href="(http://foodoasis.la" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Website to creates images from text captions </p>
+        <p><strong>React/TypeScript/PostgreSQL/MUI</strong> - A Website to creates images from text captions </p>
     </td> 
-  </tr> -->
+    
+  </tr> 
 	
 </table>
 
