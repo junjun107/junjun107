@@ -25,7 +25,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
       <h3 align="center">Map My Way</h3>
         <br />
         <a target="_blank" href="https://pear-famous-brown-bear.cyclic.app">
-            <img src="https://github.com/junjun107/fullstack_travel_blog/blob/master/client/src/asset/travel_log.png?raw=true"/>
+            <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1707329645/portfolio/Screenshot_2024-02-02_at_3.14.59_PM_mkmd1i.png"/>
         </a>
         <br />
         <p align="center">
@@ -33,7 +33,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
   <a href="https://github.com/junjun107/fullstack_travel_blog">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://pear-famous-brown-bear.cyclic.app" target="_blank">
+  <a href="https://beige-gazelle-gear.cyclic.app/login" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
