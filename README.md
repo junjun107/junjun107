@@ -24,7 +24,7 @@ I'm a Full-Stack Developer based in Los Angeles. I am passionate about Full-Stac
     <td width="50%" valign="top">
       <h3 align="center">Map My Way</h3>
         <br />
-        <a target="_blank" href="https://beige-gazelle-gear.cyclic.app/login">
+        <a target="_blank" href="https://beige-gazelle-gear.cyclic.app">
             <img src="https://res.cloudinary.com/dhhiphscp/image/upload/v1707329645/portfolio/Screenshot_2024-02-02_at_3.14.59_PM_mkmd1i.png"/>
         </a>
         <br />
